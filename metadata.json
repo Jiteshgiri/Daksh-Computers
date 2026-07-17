@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Daksh Computers",
+  "description": "Official website of Daksh Computers - We Trust in Quality Education. Bhopal\u0027s leading computer training institute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
