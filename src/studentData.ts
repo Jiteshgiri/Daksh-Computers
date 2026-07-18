@@ -64,6 +64,7 @@ export const studentsCertificates: StudentCertificate[] = [
     certificateUrl: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784230193/IMG_20260717_005848_maagvh.jpg",
     issueDate: "15 February 2026"
   },
+  
   {
     id: "DC-INT-2026-001",
     studentName: "Jitesh Giri",

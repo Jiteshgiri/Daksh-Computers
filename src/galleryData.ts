@@ -101,7 +101,7 @@ export const galleryEvents: EventCategory[] = [
       "2026": [
         {
           id: "td-25-1",
-          url: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=800&auto=format&fit=crop",
+          url: "ji",
           caption: "Teachers Day 2025 Group Photo"
         }
       ]
@@ -308,7 +308,7 @@ export const galleryEvents: EventCategory[] = [
         },
         {
           id: "cls-26-2",
-          url: "ji",
+          url: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784353062/IMG-20260718-WA0004_jhk13e.jpg",
           caption: "Hands-on Student Practice Session"
         }
       ]
