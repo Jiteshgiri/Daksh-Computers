@@ -26,7 +26,7 @@ const MAIN_COURSES = [
   { id: 'PGDCA', label: 'PGDCA', description: 'Post Graduate Diploma in Computer Applications', icon: Layers, color: 'from-purple-500 to-pink-600' },
   { id: 'Web Development', label: 'Web Development', description: 'Frontend, Stylesheets & Web App Suite Certificates', icon: FileText, color: 'from-cyan-500 to-blue-600' },
   { id: 'Internship', label: 'Internship', description: 'Professional Internship & Practical Training Completion Certificates', icon: Award, color: 'from-cyan-500 to-blue-600' },
-  { id: 'Tally-Prime', label: 'Tally-Prime', description: 'Accounting, GST, Payroll & Financial Management Certificates', icon: Award, color: 'from-cyan-500 to-blue-600' }
+  { id: 'Tally-Prime', label: 'Tally-Prime', description: 'Accounting, GST, Payroll & Financial Management Certificates', icon: BookOpen, color: 'from-cyan-500 to-blue-600' }
 ];
 
 // -------------------------------------------------------------
