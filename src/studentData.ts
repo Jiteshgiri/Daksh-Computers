@@ -139,16 +139,16 @@ export const studentsCertificates: StudentCertificate[] = [
     profilePhoto: "ji",
     certificateUrl: "ji",
     issueDate: "14 July 2026"
-  }
+  },
   // ==========================================
   // 7. Tally-Prime
   // ==========================================
   {
     id: "DC-WEB-2026-401",
-    studentName: "none",
+    studentName: "Ritu Gupta",
     course: "Tally-Prime",
     profilePhoto: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784374276/IMG-20260718-WA0029_pbfsbj.jpg",
     certificateUrl: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784374317/IMG-20260718-WA0014_yvxovl.jpg",
-    issueDate: "14 July 2026"
+    issueDate: "16.01.2026 to 16.04.2026"
   }
 ];
