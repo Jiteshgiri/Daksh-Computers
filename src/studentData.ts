@@ -122,16 +122,17 @@ export const studentsCertificates: StudentCertificate[] = [
   // ==========================================
   {
     id: "DC-PGDCA-2026-301",
-    studentName: "none",
+    studentName: "Shubham Tiwari",
     course: "PGDCA",
-    profilePhoto: "ji",
-    certificateUrl: "ji",
-    issueDate: "22 May 2026"
+    profilePhoto: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784474914/1784474886164_veeg8d.jpg",
+    certificateUrl: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784474541/1784474515638_ogvgmt.jpg",
+    issueDate: "Dec 2025-Jan 2026"
   },
 
   // ==========================================
   // 6. WEB DEVELOPMENT STUDENTS
   // ==========================================
+  
   {
     id: "DC-WEB-2026-401",
     studentName: "none",
@@ -144,7 +145,7 @@ export const studentsCertificates: StudentCertificate[] = [
   // 7. Tally-Prime
   // ==========================================
   {
-    id: "DC-WEB-2026-401",
+    id: "DC-TALLY-2026-401",
     studentName: "Ritu Gupta",
     course: "Tally-Prime",
     profilePhoto: "https://res.cloudinary.com/mpwyauoh/image/upload/v1784374276/IMG-20260718-WA0029_pbfsbj.jpg",
